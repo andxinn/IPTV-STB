@@ -14,8 +14,4 @@
 2. **Tambahkan** tautan ke aplikasi IPTV di perangkat STB, smartphone, atau smart TV Anda.
 3. **Nikmati** saluran TV favorit Anda secara gratis!
 
-## [![Unduh Sekarang](https://img.shields.io/badge/Unduh%20Daftar%20IPTV-Sekarang-brightgreen?style=for-the-badge&logo=download)](https://github.com/andxinn/IPTV-STB/blob/main/IPTV-STB.m3u)
-
----
-
-🌐 Tetap pantau repository ini untuk update terbaru dan tautan IPTV yang aktif!
+## [![Unduh Sekarang](https://img.shields.io/badge/Unduh%20Daftar%20IPTV-STB-brightgreen?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/andxinn
