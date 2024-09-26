@@ -14,7 +14,6 @@
 2. **Tambahkan** tautan ke aplikasi IPTV di perangkat STB, smartphone, atau smart TV Anda.
 3. **Nikmati** saluran TV favorit Anda secara gratis!
 
-## [![Pengunjung](https://visitor-badge.glitch.me/badge?page_id=andxinn.IPTV-STB)](https://github.com/andxinn/IPTV-STB)
 
 ---
 
